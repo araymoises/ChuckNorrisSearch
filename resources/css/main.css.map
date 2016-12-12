@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,QAAQ;EAAC,UAAU,EAAE,KAAK",
+"sources": ["../assets/sass/app.scss"],
+"names": [],
+"file": "main.css"
+}
